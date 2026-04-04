@@ -12,7 +12,7 @@
   "author": "devopsdennis",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^20.0.0",
+    "@hapi/hapi": "^21.4.8",
     "axios": "^1.13.5",
     "boxen": "^4.0.0",
     "chalk": "^2.4.2",
